@@ -1,24 +1,3 @@
-# README
+# CFM-BACK-END
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a rails api application with no database, one controller with one method, that spits out a series of random numbers between 0 and 360 as a JSON Array. The amount of numbers is a perfect square (1, 4, 9, 16,25....576).
